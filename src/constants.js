@@ -66,7 +66,8 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import poster from './assets/work_logo/poster.png';
-import crud from './assets/work_logo/crud.png'
+import crud from './assets/work_logo/crud.png';
+import calculator from './assets/work_logo/calculator.png';
 
 
 export const SkillsInfo = [
@@ -263,13 +264,13 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "CS Prep",
+      title: "Calculator with React and Vite",
       description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-      image: csprepLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://csprep.netlify.app/",
+        "A calculator app built with React and Vite demonstrates core concepts like state management, event handling, and component-based architecture. React's useState hook manages inputs and results, while Vite ensures fast build times and optimized performance. With React components for each button and display, and event handling for user interactions, the app efficiently handles basic arithmetic operations. Vite enhances development with its quick build process and seamless updates, making it an ideal tool for creating interactive and high-performance web applications.",
+      image: calculator,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      github: "",
+      webapp: "",
     },
     {
       id: 2,
