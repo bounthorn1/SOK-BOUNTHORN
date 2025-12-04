@@ -68,6 +68,10 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
 import poster from './assets/work_logo/poster.png';
 import crud from './assets/work_logo/crud.png';
 import calculator from './assets/work_logo/calculator.png';
+import Mobile1 from './assets/work_logo/mobile1.png';
+import Mobile2 from './assets/work_logo/mobile2.png';
+import Mobile3 from './assets/work_logo/mobile3.png';
+
 
 
 export const SkillsInfo = [
@@ -274,33 +278,33 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Movie Recommendation App",
+      title: "Mobile application",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: movierecLogo,
-      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+        "I have successfully developed a mobile application that allows users to read books in PDF and ePub formats. The app is built using Kotlin and utilizes Firebase for backend services, providing a seamless and efficient reading experience. It features easy navigation, smooth performance, and reliable data management, making it a comprehensive solution for digital book reading.",
+      image: Mobile2,
+      tags: ["Kotlin", "API", "Firebase"],
+      github: "",
+      webapp: "",
     },
     {
       id: 3,
-      title: "Email Validator NPM Package",
+      title: "Mobile application",
       description:
-        "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-      image: npmLogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/codingmastr/cmtk-email-validator",
-      webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+        "I have successfully developed a mobile application that allows users to read books in PDF and ePub formats. The app is built using Kotlin and utilizes Firebase for backend services, providing a seamless and efficient reading experience. It features easy navigation, smooth performance, and reliable data management, making it a comprehensive solution for digital book reading.",
+      image: Mobile3,
+      tags: ["Kotlin", "API", "Firebase"],
+      github: "",
+      webapp: "",
     },
     {
       id: 4,
-      title: "Task Reminder Chrome Extension Tool",
+      title: "Mobile application Quizzes",
       description:
-        "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
-      image: taskremLogo,
-      tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
-      webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
+        "I have successfully developed a mobile application that allows users to create and participate in quizzes. The app is built using Kotlin and utilizes Firebase for backend services, ensuring smooth performance and real-time data management. It offers an engaging and interactive experience for users, making learning and testing knowledge both fun and efficient.",
+      image: Mobile1,
+      tags: ["Kotlin", "API", "Firebase"],
+      github: "",
+      webapp: "",
     },
     {
       id: 5,
