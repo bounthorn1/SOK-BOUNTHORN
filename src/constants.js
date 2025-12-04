@@ -48,7 +48,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import npic from './assets/education_logo/npic.png';
-import sunrise from './assets/education_logo/Sunrise.png';
+import sunrise from './assets/education_logo/sunrise.png';
 import angshopy from './assets/education_logo/angshopy.png';
 import kjong from './assets/education_logo/kjong.png';
 import glaLogo from './assets/education_logo/gla_logo.png';
