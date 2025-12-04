@@ -66,6 +66,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import poster from './assets/work_logo/poster.png';
+import crud from './assets/work_logo/crud.png'
 
 
 export const SkillsInfo = [
@@ -252,13 +253,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "GitHub Profile Detective",
+      title: "CRUD Operations with React and Vite",
       description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-      image: poster,
+        "In React applications, CRUD (Create, Read, Update, Delete) operations are essential for managing data. With Vite, a fast build tool for modern web development, CRUD functionalities are implemented efficiently. Vite enhances React’s development process with features like fast builds and hot module replacement (HMR). CRUD operations typically involve manipulating the state in React (using useState or useReducer.",
+      image: crud,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "",
+      webapp: "",
     },
     {
       id: 1,
