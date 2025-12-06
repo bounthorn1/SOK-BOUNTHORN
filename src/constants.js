@@ -75,6 +75,7 @@ import Project1 from './assets/work_logo/project1.png';
 import Project2 from './assets/work_logo/project2.png';
 import Project3 from './assets/work_logo/project3.png';
 import Project4 from './assets/work_logo/project4.png';
+import Project5 from './assets/work_logo/project5.png';
 
 
 export const SkillsInfo = [
@@ -348,5 +349,15 @@ export const SkillsInfo = [
       tags: ["Laravel", "Mysql"],
       github: "https://drive.google.com/file/d/1PTU5rN1i4PDxZzklK-W51oo57hOBeqHx/view?usp=sharing",
       webapp: "https://docs.google.com/presentation/d/1rcHT5fXtYXv7sLUWPv-5UGsZl7AepH9u/edit?usp=sharing&ouid=100147397165785584604&rtpof=true&sd=true",
+    },
+    {
+      id: 9,
+      title: "Food Order",
+      description:
+        "This project is a food ordering mobile app built with Kotlin, showcasing my skills in Android development. It includes features such as menu browsing, order management, and a responsive user interface. By leveraging Kotlin’s modern language features and Android architecture components, I created a secure, scalable, and intuitive application for ordering food on the go.",
+      image: Project5,
+      tags: ["Kotlin"],
+      github: "https://drive.google.com/file/d/1PTU5rN1i4PDxZzklK-W51oo57hOBeqHx/view?usp=sharing",
+      webapp: "https://docs.google.com/presentation/d/1MSPQIy14n87noqQDMTV0eVKeJOPVi8Ng/edit?usp=sharing&ouid=100147397165785584604&rtpof=true&sd=true",
     },
   ];  
