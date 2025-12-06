@@ -74,7 +74,7 @@ import Mobile3 from './assets/work_logo/mobile3.png';
 import Project1 from './assets/work_logo/project1.png';
 import Project2 from './assets/work_logo/project2.png';
 import Project3 from './assets/work_logo/project3.png';
-
+import Project4 from './assets/work_logo/project4.png';
 
 
 export const SkillsInfo = [
@@ -341,12 +341,12 @@ export const SkillsInfo = [
     },
     {
       id: 8,
-      title: "Image Background Remover",
+      title: "Travel Booking",
       description:
-        "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
-      image: removebgLogo,
-      tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Background-Remover",
-      webapp: "https://removeyourbg.netlify.app/",
+        "This travel booking application showcases my skills in backend development using the Laravel framework. I built a structured and scalable system that includes destination management, secure user authentication, and a smooth booking process. Laravel’s powerful tools, such as routing, Eloquent ORM, and built-in security features, helped me deliver a polished and user-friendly travel booking experience.",
+      image: Project4,
+      tags: ["Laravel", "Mysql"],
+      github: "https://drive.google.com/file/d/1PTU5rN1i4PDxZzklK-W51oo57hOBeqHx/view?usp=sharing",
+      webapp: "https://docs.google.com/presentation/d/1rcHT5fXtYXv7sLUWPv-5UGsZl7AepH9u/edit?usp=sharing&ouid=100147397165785584604&rtpof=true&sd=true",
     },
   ];  
