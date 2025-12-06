@@ -72,6 +72,7 @@ import Mobile1 from './assets/work_logo/mobile1.png';
 import Mobile2 from './assets/work_logo/mobile2.png';
 import Mobile3 from './assets/work_logo/mobile3.png';
 import Project1 from './assets/work_logo/project1.png';
+import Project2 from './assets/work_logo/project2.png';
 
 
 
@@ -319,13 +320,13 @@ export const SkillsInfo = [
     },
     {
       id: 6,
-      title: "Coding Master",
+      title: "Ecommerce",
       description:
-        "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-      image: cmLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-      github: "https://codingmasterweb.in/",
-      webapp: "https://codingmasterweb.in/",
+        "This ecommerce web application showcases my ability to develop modern front-end solutions using Vue.js. I implemented reusable components, efficient state management, and responsive layouts to ensure a seamless user experience. Key features include product listing, shopping cart functionality, and interactive UI elements. The project demonstrates my strong understanding of Vue.js and front-end development best practices.",
+      image: Project2,
+      tags: ["Vue JS"],
+      github: "https://drive.google.com/file/d/14gbGLvDWq9zLUtShTsW9rWKGWjILV0Y8/view?usp=sharing",
+      webapp: "https://docs.google.com/presentation/d/14xfwdutNopRCW8a97lcRXQSy7ry4os-k/edit?usp=sharing&ouid=100147397165785584604&rtpof=true&sd=true",
     },
     {
       id: 7,
