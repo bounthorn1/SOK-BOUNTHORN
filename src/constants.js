@@ -71,6 +71,7 @@ import calculator from './assets/work_logo/calculator.png';
 import Mobile1 from './assets/work_logo/mobile1.png';
 import Mobile2 from './assets/work_logo/mobile2.png';
 import Mobile3 from './assets/work_logo/mobile3.png';
+import Project1 from './assets/work_logo/project1.png';
 
 
 
@@ -308,13 +309,13 @@ export const SkillsInfo = [
     },
     {
       id: 5,
-      title: "Webverse Digital",
+      title: "Web Service",
       description:
-        "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
-      image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://webversedigital.com/",
+        "This web service showcases my ability to build responsive and interactive front-end applications using HTML, CSS, and JavaScript. I developed a clean layout with HTML, applied visually appealing styling using CSS, and implemented dynamic functionality through JavaScript. The project highlights my understanding of modern web development practices and my ability to create user-focused digital experiences.",
+      image: Project1,
+      tags: ["HTML", "CSS", "JavaScript",],
+      github: "https://drive.google.com/file/d/1c5BitYsNOskPocz5s1SH9kADQ7QCbusi/view?usp=sharing",
+      webapp: "https://docs.google.com/presentation/d/1YfSxzHzswD8xTw4-xdGjgLdoeQvJFHm7/edit?usp=sharing&ouid=100147397165785584604&rtpof=true&sd=true",
     },
     {
       id: 6,
