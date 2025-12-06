@@ -73,6 +73,7 @@ import Mobile2 from './assets/work_logo/mobile2.png';
 import Mobile3 from './assets/work_logo/mobile3.png';
 import Project1 from './assets/work_logo/project1.png';
 import Project2 from './assets/work_logo/project2.png';
+import Project3 from './assets/work_logo/project3.png';
 
 
 
@@ -330,13 +331,13 @@ export const SkillsInfo = [
     },
     {
       id: 7,
-      title: "Image Search App",
+      title: "Ecommerce project",
       description:
-        "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
-      image: imagesearchLogo,
-      tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Search-App",
-      webapp: "https://imagsearch.netlify.app/",
+        "In this ecommerce project, I integrated Google Blockly to provide a visual programming layer that enhances user interaction and customization. Blockly’s block-based interface allows users to configure behaviors—such as product sorting, custom filters, or automated actions—without needing to write code. This approach demonstrates my ability to incorporate modern, intuitive tools into web applications to improve usability and flexibility.",
+      image: Project3,
+      tags: ["blogspot"],
+      github: "",
+      webapp: "https://bounthorn.blogspot.com/",
     },
     {
       id: 8,
